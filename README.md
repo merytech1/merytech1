@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FE428E&height=200&section=header&text=Meriyei%20Manosalva&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=72&descSize=20" alt="Banner Meriyei Manosalva" width="100%" />
+  <a href="https://github.com/merytech1"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FE428E&height=200&section=header&text=Meriyei%20Manosalva&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=72&descSize=20" alt="Banner Meriyei Manosalva" width="100%" /></a>
 </p>
 
 <!-- Typing SVG -->
@@ -22,7 +22,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portafolio-Pr%C3%B3ximamente-7F00FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=merytech1&style=for-the-badge&color=blueviolet&label=Visitas" alt="Visitas al perfil" />
+  <a href="https://github.com/merytech1"><img src="https://komarev.com/ghpvc/?username=merytech1&style=for-the-badge&color=blueviolet&label=Visitas" alt="Visitas al perfil" /></a>
 </p>
 
 ---
@@ -55,17 +55,35 @@
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="Frontend" />
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" width="48" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="48" /></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="48" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="48" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" width="48" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="48" /></a>
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,php,kotlin,postgres,mysql&theme=dark" alt="Backend" />
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="48" /></a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="48" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="48" /></a>
+  <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" width="48" /></a>
+  <a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="48" /></a>
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" width="48" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="48" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="48" /></a>
 </p>
 
 ### 🧰 DevOps y herramientas · Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,androidstudio&theme=dark" alt="Herramientas" />
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="48" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="48" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="48" /></a>
+  <a href="https://www.kernel.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="48" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="48" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="48" /></a>
+  <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" width="48" /></a>
 </p>
 
 ---
@@ -79,10 +97,10 @@ Navegador open source y ligero para **Android TV** con protección al estilo Bra
 <sub>🇬🇧 Lightweight open-source Android TV browser with Brave-style Shields: network ad blocking, cosmetic filtering and anti-adblock script replacement. Built for the TV remote.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge&logo=androidtv&logoColor=white" alt="Android TV" />
-  <img src="https://img.shields.io/github/stars/merytech1/tvshields?style=for-the-badge&color=FE428E&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/merytech1/tvshields?style=for-the-badge&color=7F00FF&label=%C3%9Altimo%20commit" alt="Último commit" />
+  <a href="https://github.com/merytech1/tvshields"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://github.com/merytech1/tvshields"><img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge&logo=androidtv&logoColor=white" alt="Android TV" /></a>
+  <a href="https://github.com/merytech1/tvshields/stargazers"><img src="https://img.shields.io/github/stars/merytech1/tvshields?style=for-the-badge&color=FE428E&label=Stars" alt="Stars" /></a>
+  <a href="https://github.com/merytech1/tvshields/commits"><img src="https://img.shields.io/github/last-commit/merytech1/tvshields?style=for-the-badge&color=7F00FF&label=%C3%9Altimo%20commit" alt="Último commit" /></a>
 </p>
 
 ---
@@ -91,21 +109,21 @@ Navegador open source y ligero para **Android TV** con protección al estilo Bra
 
 <!-- Generated daily by .github/workflows/profile-summary-cards.yml -->
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Actividad de contribuciones" width="100%" />
+  <a href="https://github.com/merytech1"><img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Actividad de contribuciones" width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Estadísticas de GitHub" width="49%" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguajes con más commits" width="49%" />
+  <a href="https://github.com/merytech1?tab=repositories"><img src="./profile-summary-card-output/radical/3-stats.svg" alt="Estadísticas de GitHub" width="49%" /></a>
+  <a href="https://github.com/merytech1?tab=repositories"><img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Lenguajes con más commits" width="49%" /></a>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos por lenguaje" width="49%" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Horario más productivo" width="49%" />
+  <a href="https://github.com/merytech1?tab=repositories"><img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos por lenguaje" width="49%" /></a>
+  <a href="https://github.com/merytech1"><img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Horario más productivo" width="49%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=merytech1&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <a href="https://github.com/merytech1"><img src="https://streak-stats.demolab.com?user=merytech1&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" /></a>
 </p>
 
 ---
@@ -116,5 +134,5 @@ Navegador open source y ligero para **Android TV** con protección al estilo Bra
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:7F00FF&height=100&section=footer" alt="Footer" width="100%" />
+  <a href="https://github.com/merytech1"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:7F00FF&height=100&section=footer" alt="Footer" width="100%" /></a>
 </p>
