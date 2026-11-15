@@ -18,9 +18,8 @@
   <a href="mailto:meriyei.manfer@gmail.com">
     <img src="https://img.shields.io/badge/Email-FE428E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- TODO: reemplazar el enlace cuando el portafolio esté publicado (p. ej. https://merytech1.github.io) -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portafolio-Pr%C3%B3ximamente-7F00FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
+  <a href="https://merytech1.github.io">
+    <img src="https://img.shields.io/badge/Portafolio-merytech1.github.io-7F00FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://github.com/merytech1"><img src="https://komarev.com/ghpvc/?username=merytech1&style=for-the-badge&color=blueviolet&label=Visitas" alt="Visitas al perfil" /></a>
 </p>
@@ -106,6 +105,12 @@ Navegador open source y ligero para **Android TV** con protección al estilo Bra
 ---
 
 ## 📊 Estadísticas · GitHub Stats
+
+<p align="center">
+  <a href="https://merytech1.github.io/#dashboard">
+    <img src="https://img.shields.io/badge/Ver%20dashboard%20interactivo-Interactive%20dashboard-FE428E?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Ver dashboard interactivo" />
+  </a>
+</p>
 
 <!-- Generated daily by .github/workflows/profile-summary-cards.yml -->
 <p align="center">
